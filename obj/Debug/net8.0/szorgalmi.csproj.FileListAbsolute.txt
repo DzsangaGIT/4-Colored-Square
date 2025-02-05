@@ -1,0 +1,14 @@
+C:\Users\debre\Documents\szorgalmi\bin\Debug\net8.0\szorgalmi.exe
+C:\Users\debre\Documents\szorgalmi\bin\Debug\net8.0\szorgalmi.deps.json
+C:\Users\debre\Documents\szorgalmi\bin\Debug\net8.0\szorgalmi.runtimeconfig.json
+C:\Users\debre\Documents\szorgalmi\bin\Debug\net8.0\szorgalmi.dll
+C:\Users\debre\Documents\szorgalmi\bin\Debug\net8.0\szorgalmi.pdb
+C:\Users\debre\Documents\szorgalmi\obj\Debug\net8.0\szorgalmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debre\Documents\szorgalmi\obj\Debug\net8.0\szorgalmi.AssemblyInfoInputs.cache
+C:\Users\debre\Documents\szorgalmi\obj\Debug\net8.0\szorgalmi.AssemblyInfo.cs
+C:\Users\debre\Documents\szorgalmi\obj\Debug\net8.0\szorgalmi.csproj.CoreCompileInputs.cache
+C:\Users\debre\Documents\szorgalmi\obj\Debug\net8.0\szorgalmi.dll
+C:\Users\debre\Documents\szorgalmi\obj\Debug\net8.0\refint\szorgalmi.dll
+C:\Users\debre\Documents\szorgalmi\obj\Debug\net8.0\szorgalmi.pdb
+C:\Users\debre\Documents\szorgalmi\obj\Debug\net8.0\szorgalmi.genruntimeconfig.cache
+C:\Users\debre\Documents\szorgalmi\obj\Debug\net8.0\ref\szorgalmi.dll
